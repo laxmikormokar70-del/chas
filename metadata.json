@@ -1,0 +1,6 @@
+{
+  "name": "ChessMaster",
+  "description": "A premium chess app with a dark olive and soft green UI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
